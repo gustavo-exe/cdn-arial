@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Arial Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Arial Regular'), url('https://patmedcollection.s3.amazonaws.com/Assets/tipografias/ARIAL.woff') format('woff');
+  }
+    
+  
+  @font-face {
+    font-family: 'Arial Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Arial Bold'), url('https://patmedcollection.s3.amazonaws.com/Assets/tipografias/ARIALBD+1.woff') format('woff');
+  }
